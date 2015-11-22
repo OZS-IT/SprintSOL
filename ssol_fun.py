@@ -88,7 +88,7 @@ def rezultati(st_lige,stanjeLige,kat,tek):
         rezultat[i]={}
     import csv
     kodiranje='utf-8'
-    with open('./Rezultati/SOL'+str(st_lige)+'.csv',encoding=kodiranje) as f:
+    with open('./Rezultati/SSOL'+str(st_lige)+'.csv',encoding=kodiranje) as f:
         reader=csv.reader(f)
         rownum=0
         for row in reader:
@@ -322,11 +322,11 @@ def popraviEnakoTock(h, stanjeLigeKat, stTekem):
                 
 
 def vCsv(stanjeLige,st_tekem,kat,tek):
-    with open('./Stanja racunana/SOL'+str(st_tekem)+'.csv','w+',encoding='utf-8') as f:
+    with open('./Stanja racunana/SSOL'+str(st_tekem)+'.csv','w+',encoding='utf-8') as f:
         #st_tekem-=1
         f.write('Surname;First name;Cl.name;Class;Time;Pl;Points')
         for i in range(1,st_tekem +1):
-            f.write(';'+'SOL'+str(i))
+            f.write(';'+'SSOL'+str(i))
         f.write(';Sum;Average;ID\n')
         kat1=list(kat)
         kat1.sort()
