@@ -70,9 +70,9 @@ def izracunLige(rezultatiTekme,st_tekme,stanjeLige,IP,kategorija,tek):
                 if len(seznam)==0:
                     stanjeLige[kat][naziv]['sestevek']=0
                     stanjeLige[kat][naziv]['povprecje']=0
-                elif len(seznam)>=5:
-                    stanjeLige[kat][naziv]['sestevek']=sum(seznam[0:5])
-                    stanjeLige[kat][naziv]['povprecje']=round(sum(seznam[0:5])/5)
+                elif len(seznam)>=3:
+                    stanjeLige[kat][naziv]['sestevek']=sum(seznam[0:3])
+                    stanjeLige[kat][naziv]['povprecje']=round(sum(seznam[0:3])/3)
                 else:
                     stanjeLige[kat][naziv]['sestevek']=sum(seznam[0:len(seznam)])
                     stanjeLige[kat][naziv]['povprecje']=round(sum(seznam[0:len(seznam)])/len(seznam))
