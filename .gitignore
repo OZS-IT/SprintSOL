@@ -1,5 +1,9 @@
 *.py[cod]
 
+# Registrations
+
+_registracije*
+
 # C extensions
 *.so
 
