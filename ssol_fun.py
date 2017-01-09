@@ -133,7 +133,7 @@ def rezultati(st_lige,stanjeLige,kat,tek):
                     else:
                         pass            
                     colnum+=1
-                #print(row[0].split(';'))
+                #print(row[0].split(';'), header)
                 ok=int(ok)
                 classs={3:"mp",1:"dns",2:"dnf",4:"DISQ",0:True}
                 
