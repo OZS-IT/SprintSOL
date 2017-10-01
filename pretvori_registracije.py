@@ -1,6 +1,6 @@
 from urllib.request import urlopen
 
-with open("Registracije/_registracije5a.csv","r",encoding="utf-8") as f:
+with open("Registracije/_registracije5.csv","r",encoding="utf-8") as f:
     with open("Registracije/registracije5.csv","w",encoding="utf-8") as g:
         a = f.read()
         b = a.split("\n")
