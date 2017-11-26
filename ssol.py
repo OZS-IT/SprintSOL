@@ -45,6 +45,7 @@ for st_lige in range(1,12):
     if st_lige==zadnja:#Nočemo, da se zgodi v sol, je pa na voljo.
         IP=1.15
     if path.isfile('./Rezultati/SSOL'+str(st_lige)+'.csv'):
+        print("Berem rezultate za SSOL" + str(st_lige))
         c=rezultati(st_lige,stanjeLige,kat,tek)
         stanjeLige=izracunLige(c,st_lige,stanjeLige,IP,kat,tek)
         #print(stanjeLige["M55"])
@@ -52,7 +53,7 @@ for st_lige in range(1,12):
         st_tekem+=1
         vCsv(stanjeLige,st_tekem,kat,tek)
 if path.isfile('./Resna stanja/SSOL'+str(st_tekem)+'.csv'):
-    g=open('ssol_2017.csv','w',encoding='utf-8')
+    g=open('ssol_2018.csv','w',encoding='utf-8')
     with open('./Resna stanja/SSOL'+str(st_tekem)+'.csv','r',encoding='utf-8') as f:
         for i in f.readlines():
             g.write(i)
