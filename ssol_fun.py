@@ -96,8 +96,9 @@ def rezultati(st_lige,stanjeLige,kat,tek):
             if rownum==1:
                 header=str(row[0]).split(';')
                 #print('\n\n')
+                print(header)
             elif rownum==0:
-                pass
+                    pass # bug - prva vrstica mora biti zdaj prazna (!?)
             else:
                 colnum=0
                 a=True
@@ -129,6 +130,7 @@ def rezultati(st_lige,stanjeLige,kat,tek):
                     elif header[colnum]=="City":
                         klub=col
                     elif header[colnum]=='Classifier':
+                        print("Classifier")
                         ok=col
                     else:
                         pass            
@@ -340,7 +342,7 @@ def vCsv(stanjeLige,st_tekem,kat,tek):
             for t,z,naziv in h:
                 if stanjeLige[k][naziv].get('klub',None)!=None:
                     if stanjeLige[k][naziv].get('sestevek',None)==None:
-                            pass
+                        pass
                     elif stanjeLige[k][naziv].get(st_tekem,None)==None:
                         f.write(stanjeLige[k][naziv]['priimek']+';'+stanjeLige[k][naziv]['ime']+';'+str(stanjeLige[k][naziv]['klub'])+';'+k+';'+''+';'+''+';'+'')
                     elif stanjeLige[k][naziv][st_tekem][0] not in ["dns","dnf","mp","DISQ","wrongKat"]:
