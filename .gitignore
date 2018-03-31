@@ -5,6 +5,7 @@
 # Registrations
 
 _registracije*
+*.csvreg
 
 # C extensions
 *.so
