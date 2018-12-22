@@ -5,6 +5,7 @@
 895;Drejc;Malus;OK Komenda;M10
 915;Jakob;Kurinčič;OK Komenda;M10
 928;Enej;Šuc;OK Komenda;M10
+981;Andraž;Miheljak;OK Slovenj Gradec;M10
 1014;Luka;Gutenberger;OK Slovenj Gradec;M10
 1017;Aljoša;Andrejc;OK Slovenj Gradec;M10
 766;Rok;Bogataj;OK Azimut;M12
@@ -19,7 +20,9 @@
 897;Jan;Cokan;OK Komenda;M12
 976;Simon Erik;Jerebič;OK Komenda;M12
 878;Oskar;Foški;OK Polaris;M12
+902;Tevž;Miheljak;OK Slovenj Gradec;M12
 950;Ištvan;Valič;OK Slovenj Gradec;M12
+997;Staš;Svetec;OK Slovenj Gradec;M12
 736;Aljaž;Čelik;OK Azimut;M16
 833;Tihon;Salopek;OK Azimut;M16
 846;Aljaž;Obid;OK Azimut;M16
@@ -65,6 +68,7 @@
 829;Aleš;Balek;OK Slovenj Gradec;M21
 25;Andrej;Borštnik;OK Tivoli;M21
 410;Jan;Dovč;OK Tivoli;M21
+852;Tadej;Vengust;Kamniški OK;M21
 1;Klemen;Kenda;OK Azimut;M35
 106;Jožko;Jazbar;OK Azimut;M35
 108;Matej;Sedej;OK Azimut;M35
@@ -129,6 +133,7 @@
 949;Lili Ivana;Raj;OK Slovenj Gradec;Ž10
 979;Frida;Mezga;OK Slovenj Gradec;Ž10
 1016;Miša;Andrejc;OK Slovenj Gradec;Ž10
+1018;Ivana;Valič;OK Slovenj Gradec;Ž10
 597;Nea;Eržen;OK Azimut;Ž12
 847;Neža;Obid;OK Azimut;Ž12
 973;Jana;Močnik;OK Azimut;Ž12
@@ -172,6 +177,7 @@
 206;Ina;Kuhelnik;OK Slovenj Gradec;Ž21
 642;Katja;Dovč;OK Tivoli;Ž21
 82;Mojca;Flerin Drevenšek;Kamniški OK;Ž21
+112;Tanja;Pretnar;Kamniški OK;Ž21
 316;Suzana;Flerin Drevenšek;Kamniški OK;Ž21
 667;Barbara;Kmetec;Kamniški OK;Ž21
 670;Tina;Zagorc;Kamniški OK;Ž21
@@ -192,11 +198,13 @@
 203;Nastja;Raj;OK Slovenj Gradec;Ž35
 294;Petja;Balažič;OK Slovenj Gradec;Ž35
 229;Maja;Visinski Andrejc;OK Slovenj Gradec;Ž35
+465;Urška;Kordiš Miheljak;OK Slovenj Gradec;Ž35
 955;Ksenija;Štifter;OK Slovenj Gradec;Ž35
 1015;Anja;Mihelič Porogelčnik;OK Slovenj Gradec;Ž35
 4;Andreja;Anžur;OK Tivoli;Ž35
 23;Ana;Pribaković Borštnik;OK Tivoli;Ž35
 277;Lidija;Benigar;Kamniški OK;Ž35
+668;Katja;Kobentar;Kamniški OK;Ž35
 232;Maja;Prosen;OK Komenda;Ž45
 713;Romana;Zupan;OK Komenda;Ž45
 322;Maruša;Debeljak;OK Polaris;Ž45
@@ -204,6 +212,7 @@
 462;Alenka;Škarabot;OK Polaris;Ž45
 868;Damjana;Jerše;OK Polaris;Ž45
 298;Irena;Balažič;OK Slovenj Gradec;Ž45
+958;Olga;Pogorevčnik;OK Slovenj Gradec;Ž45
 1000;Tina;Fras;OK Slovenj Gradec;Ž45
 900;Natalija;Kunc Rešek;OK Tivoli;Ž45
 99;Irma;Pretnar;Kamniški OK;Ž45
