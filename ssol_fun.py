@@ -130,7 +130,6 @@ def rezultati(st_lige,stanjeLige,kat,tek):
                     elif header[colnum]=="City":
                         klub=col
                     elif header[colnum]=='Classifier':
-                        print("Classifier")
                         ok=col
                     else:
                         pass            
@@ -232,6 +231,7 @@ def rezultati(st_lige,stanjeLige,kat,tek):
                 naziv=ime1.lower()+priimek1.lower()
                 if naziv == "ivanboyadzhievml":
                     naziv+="."
+                    
                     #print(naziv,cas)
                 #print(kategorija)
                 if not kategorija:
