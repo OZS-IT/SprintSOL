@@ -28,6 +28,8 @@ Jerebič;Simon Erik;OK Komenda;M12;;;;;0;0;976
 Cvelbar;Luka;OK Azimut;M12;;;;;0;0;922
 Kremžar;Florijan;OK Komenda;M12;;;;;0;0;970
 Kerševan;Aljaž;PD Ajdovščina;M12;;;;;0;0;1031
+Ilovar;Rok;OK Tivoli;M12;;;;;0;0;916
+Faganel;Vid;PD Ajdovščina;M12;;;;;0;0;1041
 Salopek;Tihon;OK Azimut;M16;0:14:30;1;25;25;25;25;833
 Poženel;Natan Maj;OK Komenda;M16;0:14:35;2;20;20;20;20;873
 Seljak;Luka;OK Komenda;M16;0:21:23;3;15;15;15;15;613
@@ -56,8 +58,11 @@ Samec;Andraž;PD Ajdovščina;M16;;;;;0;0;807
 Slejko;Žan;PD Ajdovščina;M16;;;;;0;0;963
 Kavčič;Julijan;OK Azimut;M16;;;;;0;0;731
 Novak;Jakob;PD Ajdovščina;M16;;;;;0;0;1030
+Premrn;Denis;PD Ajdovščina;M16;;;;;0;0;866
+Štrukelj;Žan;PD Ajdovščina;M16;;;;;0;0;867
 Kavčič;Domen;OK Komenda;M18;0:20:03;1;25;25;25;25;652
 Kunc;Gregor;OK Tivoli;M18;;;;;0;0;499
+Luznar;Aljaž;OK Azimut;M18;;;;;0;0;966
 Bogataj;Mark;OK Azimut;M21;0:17:52;1;25;25;25;25;677
 Ravnikar;Žan;OK Komenda;M21;0:18:05;2;20;20;20;20;397
 Gantar;Tjaž;OK Azimut;M21;0:21:29;3;15;15;15;15;536
@@ -100,6 +105,8 @@ Valič;Jakob;PD Ajdovščina;M21;;;;;0;0;947
 Taljat;Žiga;PD Tolmin;M21;;;;;0;0;800
 Šumečki;Žan Luka;OK Tivoli;M21;;;;;0;0;541
 Cankar;Uroš;ŠOK;M21;;;;;0;0;1034
+Mukhidinov;Sarhiy;OK Azimut;M21;;;;;0;0;1042
+Razum;Matija;OK Brežice;M21;;;;;0;0;960
 Kölner;Blaž;OK Komenda;M35;0:19:58;1;25;25;25;25;556
 Gavrilov;Igor;OK Komenda;M35;0:21:33;2;20;20;20;20;967
 Salopek;Tihomir;OK Azimut;M35;0:22:00;3;15;15;15;15;851
@@ -164,6 +171,7 @@ Smole;Dušan;OK Polaris;M50;;;;;0;0;472
 Sladič;Roman;ŠOK;M50;;;;;0;0;39
 Kacin;Vojko;OK Azimut;M50;;;;;0;0;119
 Čopi;Simon;PD Tolmin;M50;;;;;0;0;834
+Bončina;Igor;OK Slovenske Konjice;M50;;;;;0;0;98
 Sedej;Vlado;OK Azimut;M60;0:27:03;1;25;25;25;25;118
 Vodovnik;Mirko;OK Slovenj Gradec;M60;0:43:32;2;20;20;20;20;288
 Zaman;Silvester;OK Azimut;M60;0:53:03;3;15;15;15;15;1005
@@ -218,6 +226,7 @@ Kremžar;Lucija;OK Komenda;Ž16;;;;;0;0;911
 Ferenc;Zala;OK Tivoli;Ž16;;;;;0;0;506
 Ferenc;Tinka;OK Tivoli;Ž16;;;;;0;0;727
 Samec;Saraja;PD Ajdovščina;Ž16;;;;;0;0;1037
+Ilovar;Pia;OK Tivoli;Ž16;;;;;0;0;836
 Kern;Tina;OK Komenda;Ž18;0:20:53;1;25;25;25;25;647
 Pust;Karin;OK Komenda;Ž18;0:23:10;2;20;20;20;20;837
 Ravnikar;Nika;OK Komenda;Ž18;0:24:35;3;15;15;15;15;441
@@ -287,6 +296,7 @@ Gorjup Poženel;Darja;OK Komenda;Ž35;;;;;0;0;1025
 Močnik;Tina;OK Komenda;Ž35;;;;;0;0;1032
 Udovič;Metka;OK Trzin;Ž35;;;;;0;0;507
 Pravato;Lorenza;PD Ajdovščina;Ž35;;;;;0;0;861
+Bončina;Abigael Vanessa;OK Slovenske Konjice;Ž35;;;;;0;0;931
 Jerše;Damjana;OK Polaris;Ž45;0:26:23;1;25;25;25;25;868
 Balažič;Irena;OK Slovenj Gradec;Ž45;0:28:17;2;20;20;20;20;298
 Zupan;Romana;OK Komenda;Ž45;0:29:05;3;15;15;15;15;713
@@ -299,3 +309,5 @@ Anderluh;Marija;OK Polaris;Ž45;;;;;0;0;400
 Kunc Rešek;Natalija;OK Tivoli;Ž45;;;;;0;0;900
 Pretnar;Irma;Kamniški OK;Ž45;;;;;0;0;99
 Poljanšek;Marjanca;OK Azimut;Ž45;;;;;0;0;188
+Zaman Groff;Maja;OK Azimut;Ž45;;;;;0;0;201
+Kovač;Marija;PD Ajdovščina;Ž45;;;;;0;0;352
