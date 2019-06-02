@@ -1,4 +1,6 @@
-﻿def sumniki(niz):
+﻿from math import floor
+
+def sumniki(niz):
     #Vrne enak niz, brez sumnikov.
     sumniki={'š':'s','č':'c','ž':'z','Š':'S','Č':'C','Ž':'Z','ć':'c','Ć':'C','ö':'o','ä':'a','Ä':'A','Ö':'O'}
     a=''
@@ -67,12 +69,13 @@ def izracunLige(rezultatiTekme,st_tekme,stanjeLige,IP,kategorija,tek):
                         seznam.append(j[1])
                 seznam.sort()
                 seznam=seznam[::-1]
+                noRacesCount = max(3, floor(st_tekme/2) + 1)
                 if len(seznam)==0:
                     stanjeLige[kat][naziv]['sestevek']=0
                     stanjeLige[kat][naziv]['povprecje']=0
-                elif len(seznam)>=3:
-                    stanjeLige[kat][naziv]['sestevek']=sum(seznam[0:3])
-                    stanjeLige[kat][naziv]['povprecje']=round(sum(seznam[0:3])/3)
+                elif len(seznam)>=noRacesCount:
+                    stanjeLige[kat][naziv]['sestevek']=sum(seznam[0:noRacesCount])
+                    stanjeLige[kat][naziv]['povprecje']=round(sum(seznam[0:noRacesCount])/noRacesCount)
                 else:
                     stanjeLige[kat][naziv]['sestevek']=sum(seznam[0:len(seznam)])
                     stanjeLige[kat][naziv]['povprecje']=round(sum(seznam[0:len(seznam)])/len(seznam))

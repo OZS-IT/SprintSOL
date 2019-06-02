@@ -30,6 +30,7 @@ Kremžar;Florijan;OK Komenda;M12;;;;;;;;;0;0;970
 Kerševan;Aljaž;PD Ajdovščina;M12;;;;;;;;;0;0;1031
 Ilovar;Rok;OK Tivoli;M12;;;;;;;;;0;0;916
 Faganel;Vid;PD Ajdovščina;M12;;;;;;;;;0;0;1041
+Vodlan;Nik;OK Komenda;M12;;;;;;;;;0;0;1044
 Poženel;Natan Maj;OK Komenda;M16;;;;20;25;25;25;;75;25;873
 Salopek;Tihon;OK Azimut;M16;0:12:19;1;25;25;15;;;25;65;22;833
 Turk;Nejc;OK Komenda;M16;;;;;12;20;20;;52;17;701
@@ -107,6 +108,7 @@ Valič;Jakob;PD Ajdovščina;M21;;;;;;;;;0;0;947
 Taljat;Žiga;PD Tolmin;M21;;;;;;;;;0;0;800
 Šumečki;Žan Luka;OK Tivoli;M21;;;;;;;;;0;0;541
 Mukhidinov;Sarhiy;OK Azimut;M21;;;;;;;;;0;0;1042
+Cesar;Jaka;OK Slovenj Gradec;M21;;;;;;;;;0;0;1043
 Kölner;Blaž;OK Komenda;M35;;;;25;25;25;;;75;25;556
 Salopek;Tihomir;OK Azimut;M35;0:15:55;1;25;15;20;;;25;60;20;851
 Rojc;Iztok;OK Polaris;M35;0:17:03;2;20;;;;25;20;45;22;65
@@ -197,6 +199,7 @@ Poženel;Leila Ema;OK Komenda;Ž10;wrongKat;;;*;*;*;*;*;0;0;1002
 Cvelbar;Mila;OK Azimut;Ž10;;;;;;;;;0;0;942
 Gantar;Brina;OK Azimut;Ž10;;;;;;-;;;0;0;1003
 Kremžar;Klara;OK Komenda;Ž10;;;;;;;;;0;0;1026
+Jeraj;Mija;OK Komenda;Ž10;;;;;;;;;0;0;1040
 Eržen;Nea;OK Azimut;Ž12;;;;;25;25;20;;70;23;597
 Kölner;Brina;OK Komenda;Ž12;;;;25;20;20;;;65;22;803
 Raj;Ema Pika;OK Slovenj Gradec;Ž12;0:14:13;1;25;20;8;15;12;25;60;20;853
@@ -265,6 +268,7 @@ Gantar;Lara;OK Azimut;Ž21;;;;;;;;;0;0;673
 Bernik;Jerca;ŠOK;Ž21;;;;;;;;;0;0;22
 Ferenc;Julija;OK Tivoli;Ž21;;;;;;;;;0;0;409
 Bergant;Tjaša;ŠOK;Ž21;;;;;;;;;0;0;1035
+Mirnik Cerar;Jona;OK Komenda;Ž21;;;;;;;;;0;0;545
 Balažič;Petja;OK Slovenj Gradec;Ž35;;;;25;20;25;25;;75;25;294
 Pribaković Borštnik;Ana;OK Tivoli;Ž35;0:17:44;1;25;20;25;20;20;25;70;23;23
 Foški;Mojca;OK Polaris;Ž35;;;;15;15;10;;;40;13;59
