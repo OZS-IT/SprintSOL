@@ -239,7 +239,8 @@ def rezultati(st_lige,stanjeLige,kat,tek):
                 #print(kategorija)
                 if not kategorija:
                     pass
-                elif kategorija[0]=="W":
+                kategorija = kategorija.replace(" ", "")
+                if kategorija[0]=="W":
                     kategorija="Ž"+kategorija[1:]
                 elif kategorija[0]=="H":
                     kategorija="M"+kategorija[1:]
