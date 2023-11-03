@@ -1,318 +1,276 @@
 Surname;First name;Cl.name;Class;Time;Pl;Points;SSOL1;Sum;Average;ID
-Sedej;Žiga;OK Azimut;M10;0:26:39;1;25;25;25;25;925
-Bačnar Tušar;Aljoša;OK Azimut;M10;;;;;0;0;1122
-Gaber Raj;Tejo;OK Slovenj Gradec;M10;;;;;0;0;1106
-Kurtanjek;Lan;OK Azimut;M10;;;;;0;0;1134
+Bačnar Tušar;Aljoša;OK Azimut;M10;0:06:50;1;25;25;25;25;1122
+Kurtanjek;Lan;OK Azimut;M10;0:07:26;2;20;20;20;20;1134
+Sedej;Žiga;OK Azimut;M10;0:10:48;3;15;15;15;15;925
 Košak;Luka;OK Slovenj Gradec;M10;;;;;0;0;1159
 Rožič;Luka;OK Slovenj Gradec;M10;;;;;0;0;1160
+Levpušček;Lan;OK Azimut;M10;wrongKat;;;*;0;0;1185
 Jereb Bubnič;Patrik;OK Azimut;M10;;;;;0;0;1137
-Pibernik;Urh;OK Komenda;M10;;;;;0;0;1176
-Sedej;Rok;OK Azimut;M12;0:14:36;1;25;25;25;25;924
-Rodman;Valentin ;PD Ajdovščina;M12;0:18:05;2;20;20;20;20;1142
-Prezelj;Mihej;OK Azimut;M12;0:19:13;3;15;15;15;15;1006
-Kerčmar;Kevin;OK Azimut;M12;0:19:46;4;12;12;12;12;1048
-Jarc;Val;OK Komenda;M12;0:23:30;5;10;10;10;10;1082
-Andrejc;Lenart;OK Slovenj Gradec;M12;0:24:54;6;8;8;8;8;1063
-Mlakar;Robi;OK Azimut;M12;0:25:10;7;7;7;7;7;1058
-Svetec;Staš;OK Slovenj Gradec;M12;;;;;0;0;997
-Miheljak;Andraž;OK Slovenj Gradec;M12;;;;;0;0;981
-Obid;Anže;OK Azimut;M12;mp;;;-;0;0;1004
+Prezelj;Mihej;OK Azimut;M12;0:06:27;1;25;25;25;25;1006
+Jarc;Val;OK Komenda;M12;0:07:00;2;20;20;20;20;1082
+Gaber Raj;Tejo;OK Slovenj Gradec;M12;0:09:54;3;15;15;15;15;1106
 Andrejc;Aljoša;OK Slovenj Gradec;M12;;;;;0;0;1017
-Šoster;Katka;OK Slovenj Gradec;M12;;;;;0;0;1091
-Nagy;Lovro;OK Polaris;M12;;;;;0;0;1126
-Malus;Drejc;OK Komenda;M12;;;;;0;0;895
+Andrejc;Lenart;OK Slovenj Gradec;M12;;;;;0;0;1063
+Obid;Anže;OK Azimut;M12;;;;;0;0;1004
+Kupina;Teo;OK Brežice;M12;;;;;0;0;1190
+Lupšina;Oskar;OK Brežice;M12;;;;;0;0;1192
+Kerševan;Matija;PD Ajdovščina;M12;;;;;0;0;1188
+Tomažič;Anže ;PD Ajdovščina;M12;;;;;0;0;1186
+Kerševan;Matic;PD Ajdovščina;M12;;;;;0;0;1187
+Koler;Ivo;OK Brežice;M12;;;;;0;0;1189
+Matković;Tilen;OK Brežice;M12;;;;;0;0;1191
+Kerčmar;Kevin;OK Azimut;M12;;;;;0;0;1048
 Serjun;Mark;OK Azimut;M12;;;;;0;0;1061
-Florjanič;Jurij;OK Komenda;M12;;;;;0;0;1174
-Kölner;Anže;OK Komenda;M16;0:17:47;1;25;25;25;25;879
-Seljak;Jaka;OK Komenda;M16;0:19:07;2;20;20;20;20;884
-Kerševan;Aljaž;PD Ajdovščina;M16;0:19:29;3;15;15;15;15;1031
-Kurtanjek;Lovro;OK Azimut;M16;0:21:00;4;12;12;12;12;1112
-Sedej;David;OK Azimut;M16;0:21:06;5;10;10;10;10;923
-Novak;Tine;PD Ajdovščina;M16;0:21:27;6;8;8;8;8;1141
-Gantar;Borut;OK Azimut;M16;0:22:45;7;7;7;7;7;920
-Bizjak;Beno;OK Azimut;M16;0:23:58;8;6;6;6;6;1055
-Kremžar;Florijan;OK Komenda;M16;0:24:38;9;5;5;5;5;970
-Foški;Oskar;OK Polaris;M16;0:24:52;10;4;4;4;4;878
-Novak;Nejc;OK Azimut;M16;0:25:32;11;3;3;3;3;1075
-Bratož;Matej;PD Ajdovščina;M16;0:26:07;12;2;2;2;2;1069
-Šuc;Enej;OK Komenda;M16;0:27:26;13;1;1;1;1;928
-Nemeček;Gal;PD Ajdovščina;M16;0:29:08;14;1;1;1;1;1073
-Lenart;Vidjan;OK Slovenj Gradec;M16;0:29:15;15;1;1;1;1;998
-Bovcon;Matija;PD Ajdovščina;M16;0:35:16;16;1;1;1;1;1072
+Breznik;Kosta;OK Slovenj Gradec;M12;;;;;0;0;1197
+Kurtanjek;Lovro;OK Azimut;M16;0:09:20;1;25;25;25;25;1112
+Sedej;David;OK Azimut;M16;0:09:26;2;20;20;20;20;923
+Kalc;Rado;OK Komenda;M16;0:09:33;3;15;15;15;15;1087
+Kölner;Anže;OK Komenda;M16;0:09:40;4;12;12;12;12;879
+Bizjak;Beno;OK Azimut;M16;0:10:51;5;10;10;10;10;1055
+Ferluga;Matej;OK Komenda;M16;0:11:54;6;8;8;8;8;1074
+Malus;Ožbej;OK Komenda;M16;0:12:28;7;7;7;7;7;840
+Sedej;Rok;OK Azimut;M16;0:13:03;8;6;6;6;6;924
+Mlakar;Robi;OK Azimut;M16;0:14:35;9;5;5;5;5;1058
+Kremžar;Florijan;OK Komenda;M16;0:15:18;10;4;4;4;4;970
+Malus;Drejc;OK Komenda;M16;0:19:08;11;3;3;3;3;895
+Foški;Oskar;OK Polaris;M16;;;;;0;0;878
 Miheljak;Tevž;OK Slovenj Gradec;M16;;;;;0;0;902
 Valič;Ištvan;OK Slovenj Gradec;M16;;;;;0;0;950
-Hribar;Timotej;OK Brežice;M16;;;;;0;0;823
-Malus;Ožbej;OK Komenda;M16;;;;;0;0;840
-Mlakar;Ruj David;OK Slovenj Gradec;M16;;;;;0;0;1064
-Ferluga;Matej;OK Komenda;M16;;;;;0;0;1074
-Kalc;Rado;OK Komenda;M16;;;;;0;0;1087
+Svetec;Staš;OK Slovenj Gradec;M16;;;;;0;0;997
+Lenart;Vidjan;OK Slovenj Gradec;M16;;;;;0;0;998
+Miheljak;Andraž;OK Slovenj Gradec;M16;;;;;0;0;981
 Cigoj;Rok;PD Ajdovščina;M16;;;;;0;0;1068
-Pivk;Luka;OK Azimut;M16;;;;;0;0;1088
-Česnik;Enej;OK Azimut;M16;;;;;0;0;1080
-Hadalin;Jošt;OK Azimut;M16;;;;;0;0;1169
+Bratož;Matej;PD Ajdovščina;M16;;;;;0;0;1069
+Bovcon;Matija;PD Ajdovščina;M16;;;;;0;0;1072
+Nemeček;Gal;PD Ajdovščina;M16;;;;;0;0;1073
+Rodman;Valentin ;PD Ajdovščina;M16;;;;;0;0;1142
+Kerševan;Aljaž;PD Ajdovščina;M16;;;;;0;0;1031
 Erjavec;Jakob;OK Komenda;M16;;;;;0;0;1177
-Turk;Nejc;OK Komenda;M18;0:18:42;1;25;25;25;25;701
-Bogataj;Rok;OK Azimut;M18;0:21:02;2;20;20;20;20;766
-Seljak;Luka;OK Komenda;M18;0:22:41;3;15;15;15;15;613
-Bizjak;Božo;OK Azimut;M18;0:22:53;4;12;12;12;12;1007
-Gantar;Primož;OK Azimut;M18;0:23:15;5;10;10;10;10;917
-Žižek;Lev;OK Azimut;M18;1:06:29;6;8;8;8;8;934
-Smole;Enej;OK Polaris;M18;;;;;0;0;471
-Kunc;Matevž;OK Tivoli;M18;;;;;0;0;578
-Jevševar;Martin;OK Brežice;M18;;;;;0;0;585
-Zupan;Tilen;OK Komenda;M18;;;;;0;0;700
-Hvala;Gregor;OK Azimut;M21;0:22:01;1;25;25;25;25;424
-Blaž;Matic;OK Komenda;M21;0:22:24;2;20;20;20;20;520
-Ravnikar;Žan;OK Azimut;M21;0:23:09;3;15;15;15;15;397
-Tušar;Peter;OK Azimut;M21;0:23:09;3;15;15;15;15;419
-Štanfel;Matjaž;OK Azimut;M21;0:23:18;5;10;10;10;10;769
-Stanonik;Simon;OK Azimut;M21;0:26:33;6;8;8;8;8;620
-Kavčič;Jure;OK Komenda;M21;0:30:04;7;7;7;7;7;901
-Piltaver;Jaka;OK Brežice;M21;0:31:55;8;6;6;6;6;57
-Golja;Elio;OK Polaris;M21;0:32:53;9;5;5;5;5;664
-Ferenc;Martin;OK Tivoli;M21;0:37:34;10;4;4;4;4;975
-Ferenc;Aleš;OK Tivoli;M21;0:42:12;11;3;3;3;3;418
-Rojc;Nejc;OK Azimut;M21;1:01:02;12;2;2;2;2;387
-Leskovšek;Gregor;OK Tivoli;M21;1:22:36;13;1;1;1;1;1124
-Osterman;Eneja;OK Polaris;M21;;;;;0;0;66
-Petrovič;Blaž;OK Polaris;M21;;;;;0;0;70
-Petrovič;Gašper;OK Polaris;M21;;;;;0;0;71
+Turk;Nejc;OK Komenda;M18;0:11:01;1;25;25;25;25;701
+Gantar;Primož;OK Azimut;M18;0:11:41;2;20;20;20;20;917
+Bizjak;Božo;OK Azimut;M18;0:13:20;3;15;15;15;15;1007
+Hadalin;Jošt;OK Azimut;M18;0:14:24;4;12;12;12;12;1169
+Gantar;Borut;OK Azimut;M18;0:15:43;5;10;10;10;10;920
+Seljak;Jaka;OK Komenda;M18;0:20:06;6;8;8;8;8;884
+Močnik;Fedja;OK Polaris;M18;;;;;0;0;654
+Bogataj;Rok;OK Azimut;M18;;;;;0;0;766
+Bogataj;Mark;OK Azimut;M21;0:13:07;1;25;25;25;25;677
+Stanonik;Simon;OK Azimut;M21;0:14:35;2;20;20;20;20;620
+Hvala;Gregor;OK Azimut;M21;0:15:00;3;15;15;15;15;424
+Blaž;Matic;OK Komenda;M21;0:15:45;4;12;12;12;12;520
+Tušar;Peter;OK Azimut;M21;0:16:21;5;10;10;10;10;419
+Dovč;Jan;OK Tivoli;M21;0:17:03;6;8;8;8;8;410
+Seljak;Luka;OK Komenda;M21;0:17:23;7;7;7;7;7;613
+Poženel;Natan Maj;OK Komenda;M21;0:18:11;8;6;6;6;6;873
+Gladek;Peter;OK Azimut;M21;0:30:11;9;5;5;5;5;1182
+Mikuž;Denis;OK Azimut;M21;0:32:23;10;4;4;4;4;983
+Piltaver;Jaka;OK Brežice;M21;;;;;0;0;57
+Škarabot;Matej;OK Polaris;M21;;;;;0;0;132
 Šalamun;Jan;OK Polaris;M21;;;;;0;0;150
 Andrejc;Klemen;OK Slovenj Gradec;M21;;;;;0;0;216
-Smole;Juš;OK Polaris;M21;;;;;0;0;317
-Smole;Brin;OK Polaris;M21;;;;;0;0;318
+Močnik;Saš;OK Polaris;M21;;;;;0;0;323
 Andrejc;Žiga;OK Slovenj Gradec;M21;;;;;0;0;470
-Kunc;Gregor;OK Tivoli;M21;;;;;0;0;499
-Poženel;Natan Maj;OK Komenda;M21;;;;;0;0;873
-Cankar;Uroš;ŠOK;M21;mp;;;-;0;0;1034
-Kralj;Samo;OK Azimut;M21;;;;;0;0;1081
-Koštejn;Vít;OK Komenda;M21;;;;;0;0;1129
+Rebolj;Aljoša;OK Polaris;M21;;;;;0;0;711
 Pirnat;Tomaž;OK Slovenj Gradec;M21;;;;;0;0;1131
-Bostan;Ibrahim;OK Komenda;M21;;;;;0;0;1149
-Čufer;David;PD Ajdovščina;M21;;;;;0;0;337
-Hribar;Andraž;OK Brežice;M21;;;;;0;0;45
-Bogovič;Vid;OK Brežice;M21;;;;;0;0;47
+Pišljar;Jaka;OK Polaris;M21;;;;;0;0;1095
+Ravnikar;Žan;OK Azimut;M21;;;;;0;0;397
 Petrovič;Filip;OK Polaris;M21;;;;;0;0;406
-Draksler;Matjaž;ŠOK;M21;;;;;0;0;144
-Močnik;Nejc;OK Azimut;M21;;;;;0;0;190
-Šumečki;Žan Luka;OK Tivoli;M21;;;;;0;0;541
-Lazar;Nejc;OK Azimut;M21;;;;;0;0;596
-Bogataj;Mark;OK Azimut;M21;;;;;0;0;677
-Luznar;Aljaž;OK Azimut;M21;;;;;0;0;966
-Mikuž;Denis;OK Azimut;M21;;;;;0;0;983
-Mikuž;Erik;OK Azimut;M21;;;;;0;0;1085
-Kölner;Blaž;OK Komenda;M35;0:23:50;1;25;25;25;25;556
-Poljanšek;Aleš;OK Azimut;M35;0:27:52;2;20;20;20;20;176
-Kremžar;Tomaž;OK Komenda;M35;0:29:33;3;15;15;15;15;910
-Eržen;Valentin;OK Azimut;M35;0:30:01;4;12;12;12;12;386
-Petrovič;Dušan;OK Polaris;M35;0:30:30;5;10;10;10;10;69
-Jarc;Andrej;OK Komenda;M35;0:31:23;6;8;8;8;8;1086
-Gantar;Kristjan;OK Azimut;M35;0:32:06;7;7;7;7;7;918
-Bačnar;Janko;OK Azimut;M35;0:32:33;8;6;6;6;6;104
-Drešček;Andraž;OK Azimut;M35;0:32:46;9;5;5;5;5;481
-Sedej;Matej;OK Azimut;M35;0:32:58;10;4;4;4;4;108
-Obid;Marko;OK Azimut;M35;0:33:48;11;3;3;3;3;392
-Andrejc;David;OK Slovenj Gradec;M35;0:34:18;12;2;2;2;2;289
-Kerčmar;Matjaž;OK Azimut;M35;0:36:36;13;1;1;1;1;566
-Osterman;Natan;OK Polaris;M35;0:39:07;14;1;1;1;1;1033
-Cimerman;Andrej;OK Polaris;M35;0:39:15;15;1;1;1;1;444
-Seljak;Borut;OK Komenda;M35;0:40:21;16;1;1;1;1;721
-Kurtanjek;Luka;OK Azimut;M35;0:53:04;17;1;1;1;1;1135
-Kenda;Klemen;OK Azimut;M35;;;;;0;0;1
-Rojc;Iztok;OK Polaris;M35;;;;;0;0;65
-Andrejc;Gregor;OK Slovenj Gradec;M35;;;;;0;0;214
-Raj;Gregor;OK Slovenj Gradec;M35;;;;;0;0;282
-Miheljak;Blaž;OK Slovenj Gradec;M35;;;;;0;0;283
-Šuc;Timotej;OK Komenda;M35;;;;;0;0;946
-Pritržnik;Tomaž;OK Slovenj Gradec;M35;;;;;0;0;957
-Pobega;Davor;OK Tivoli;M35;mp;;;-;0;0;1038
-Prezelj;Rado;OK Azimut;M35;wrongKat;;;*;0;0;1139
-Pavlič;Gregor;OK Azimut;M35;mp;;;-;0;0;1145
-Mlakar;Tomaž;OK Azimut;M35;wrongKat;;;*;0;0;1147
-Nagy;Ivan;OK Polaris;M35;;;;;0;0;170
-Zupan;Gregor;OK Komenda;M35;;;;;0;0;712
-Gavrilov;Igor;OK Komenda;M35;;;;;0;0;967
-Churkin;Sergey;OK Komenda;M35;;;;;0;0;1093
+Petrovič;Domen;OK Polaris;M21;;;;;0;0;473
+Anderluh;Luka;OK Polaris;M21;;;;;0;0;474
+Kunc;Matevž;OK Tivoli;M21;;;;;0;0;578
+Golja;Elio;OK Polaris;M21;;;;;0;0;664
+Štanfel;Matjaž;OK Azimut;M21;;;;;0;0;769
+Kavčič;Jure;OK Komenda;M21;;;;;0;0;901
+Bačnar;Janko;OK Azimut;M35;0:16:32;1;25;25;25;25;104
+Kremžar;Tomaž;OK Komenda;M35;0:17:42;2;20;20;20;20;910
+Kölner;Blaž;OK Komenda;M35;0:17:58;3;15;15;15;15;556
+Jarc;Andrej;OK Komenda;M35;0:18:33;4;12;12;12;12;1086
+Sedej;Matej;OK Azimut;M35;0:18:41;5;10;10;10;10;108
+Churkin;Sergey;OK Komenda;M35;0:19:25;6;8;8;8;8;1093
+Eržen;Valentin;OK Azimut;M35;0:19:49;7;7;7;7;7;386
+Poljanšek;Aleš;OK Azimut;M35;0:19:50;8;6;6;6;6;176
+Ficur;Maurizio;OK Komenda;M35;0:20:05;9;5;5;5;5;1165
+Pavlič;Gregor;OK Azimut;M35;0:21:37;10;4;4;4;4;1145
+Raj;Gregor;OK Slovenj Gradec;M35;0:21:45;11;3;3;3;3;282
+Ferluga;Peter;OK Komenda;M35;0:22:13;12;2;2;2;2;1157
+Kupnik;Tomaž;OK Azimut;M35;0:22:33;13;1;1;1;1;1118
+Kenda;Klemen;OK Azimut;M35;0:23:49;14;1;1;1;1;1
+Seljak;Borut;OK Komenda;M35;0:24:12;15;1;1;1;1;721
+Gantar;Kristjan;OK Azimut;M35;0:24:20;16;1;1;1;1;918
+Kurtanjek;Luka;OK Azimut;M35;0:27:22;17;1;1;1;1;1135
+Levpušček;Peter;OK Azimut;M35;0:28:36;18;1;1;1;1;1181
+Vidič;Matej;OK Azimut;M35;0:29:14;19;1;1;1;1;757
+Malus;Franc;OK Komenda;M35;0:29:28;20;1;1;1;1;904
+Prezelj;Rado;OK Azimut;M35;0:31:10;21;1;1;1;1;1139
+Mlakar;Tomaž;OK Azimut;M35;0:37:06;22;1;1;1;1;1147
 Jevševar;Bojan;OK Brežice;M35;;;;;0;0;43
-Petrovič;Uroš;OK Polaris;M35;;;;;0;0;64
-Cokan;Samo;OK Slovenj Gradec;M35;;;;;0;0;217
-Sušnik;Rok;OK Azimut;M35;;;;;0;0;308
-Vidič;Matej;OK Azimut;M35;;;;;0;0;757
-Pogorelčnik;Primož;OK Slovenj Gradec;M35;;;;;0;0;854
-Malus;Franc;OK Komenda;M35;;;;;0;0;904
-Kupnik;Tomaž;OK Azimut;M35;;;;;0;0;1118
-Ferluga;Peter;OK Komenda;M35;;;;;0;0;1157
-Sedej;Dejan;OK Azimut;M35;;;;;0;0;1161
-Ficur;Maurizio;OK Komenda;M35;;;;;0;0;1165
 Ravnikar;Andraž;OK Polaris;M35;;;;;0;0;68
-Kovačič;Blaž;OK Azimut;M35;;;;;0;0;89
-Studen;Andrej;OK Polaris;M35;;;;;0;0;314
+Savinšek;Primož;OK Polaris;M35;;;;;0;0;134
+Andrejc;Gregor;OK Slovenj Gradec;M35;;;;;0;0;214
+Cokan;Samo;OK Slovenj Gradec;M35;;;;;0;0;217
+Miheljak;Blaž;OK Slovenj Gradec;M35;;;;;0;0;283
+Andrejc;David;OK Slovenj Gradec;M35;;;;;0;0;289
+Obid;Marko;OK Azimut;M35;;;;;0;0;392
+Cimerman;Andrej;OK Polaris;M35;;;;;0;0;444
+Pogorelčnik;Primož;OK Slovenj Gradec;M35;;;;;0;0;854
+Pritržnik;Tomaž;OK Slovenj Gradec;M35;;;;;0;0;957
+Cankar;Uroš;ŠOK;M35;mp;;;-;0;0;1034
+Rojc;Iztok;OK Polaris;M35;;;;;0;0;65
+Kokelj;Denis;Kamniški OK;M35;;;;;0;0;436
+Zupan;Gregor;OK Komenda;M35;;;;;0;0;712
+Šuc;Timotej;OK Komenda;M35;;;;;0;0;946
+Gavrilov;Igor;OK Komenda;M35;;;;;0;0;967
 Bogataj;Boštjan;OK Azimut;M35;;;;;0;0;765
-Cvelbar;Uroš;OK Azimut;M35;;;;;0;0;115
-Močnik;Rok;OK Azimut;M35;;;;;0;0;191
-Dudić;Marko;OK Slovenj Gradec;M50;0:17:20;1;25;25;25;25;467
-Pust;Tomaž;OK Komenda;M50;0:17:50;2;20;20;20;20;893
-Anderluh;Gregor;OK Polaris;M50;0:19:18;3;15;15;15;15;155
-Škarabot;Miha;OK Polaris;M50;0:19:24;4;12;12;12;12;54
-Šalamun;Miro;OK Polaris;M50;0:20:55;5;10;10;10;10;2
-Zupan;Aleš;OK Polaris;M50;0:21:53;6;8;8;8;8;55
-Jazbar;Jožko;OK Azimut;M50;0:21:55;7;7;7;7;7;106
-Foški;Valter;OK Polaris;M50;0:22:12;8;6;6;6;6;58
-Borštnik;Aleš;OK Tivoli;M50;0:23:10;9;5;5;5;5;24
-Smole;Dušan;OK Polaris;M50;0:24:01;10;4;4;4;4;472
-Bončina;Igor;OK Slovenske Konjice;M50;0:24:16;11;3;3;3;3;98
-Bizjak;Boštjan;OK Azimut;M50;0:27:01;12;2;2;2;2;1107
-Pretnar;Janez;Kamniški OK;M50;mp;;;-;0;0;102
-Benko;Robert;OK Polaris;M50;mp;;;-;0;0;151
+Dudić;Marko;OK Slovenj Gradec;M50;0:12:10;1;25;25;25;25;467
+Petrovič;Dušan;OK Polaris;M50;0:12:28;2;20;20;20;20;69
+Pust;Tomaž;OK Komenda;M50;0:12:42;3;15;15;15;15;893
+Jazbar;Jožko;OK Azimut;M50;0:14:52;4;12;12;12;12;106
+Škarabot;Miha;OK Polaris;M50;0:15:18;5;10;10;10;10;54
+Foški;Valter;OK Polaris;M50;0:17:29;6;8;8;8;8;58
+Babič;Silvo;OK Komenda;M50;0:19:49;7;7;7;7;7;914
+Šalamun;Miro;OK Polaris;M50;0:19:54;8;6;6;6;6;2
+Sušnik;Rok;OK Azimut;M50;0:21:45;9;5;5;5;5;308
+Bizjak;Boštjan;OK Azimut;M50;0:22:32;10;4;4;4;4;1107
+Zupan;Aleš;OK Polaris;M50;;;;;0;0;55
+Pretnar;Janez;Kamniški OK;M50;;;;;0;0;102
+Benko;Robert;OK Polaris;M50;;;;;0;0;151
+Močnik;Griša;OK Polaris;M50;;;;;0;0;321
+Smole;Dušan;OK Polaris;M50;;;;;0;0;472
+Čufer;Stanko;PD Ajdovščina;M50;;;;;0;0;336
 Eržen;Boris;ŠOK;M50;;;;;0;0;559
-Kunc;Robert;OK Tivoli;M50;;;;;0;0;726
-Babič;Silvo;OK Komenda;M50;;;;;0;0;914
+Petrovič;Uroš;OK Polaris;M50;;;;;0;0;64
 Kacin;Emil;OK Azimut;M50;;;;;0;0;96
-Šumečki;Janez;OK Tivoli;M50;;;;;0;0;542
-Korelc;Andrej;OK Komenda;M50;;;;;0;0;756
-Tarabocchia;Cesare;OK Azimut;M60;0:21:41;1;25;25;25;25;91
-Močnik;Silvij;OK Azimut;M60;0:22:27;2;20;20;20;20;193
-Kete;Ivo;PD Ajdovščina;M60;0:25:06;3;15;15;15;15;412
-Čufer;Stanko;PD Ajdovščina;M60;0:25:34;4;12;12;12;12;336
-Sedej;Vlado;OK Azimut;M60;0:33:51;5;10;10;10;10;118
-Lapajne;Janko;OK Azimut;M60;0:36:05;6;8;8;8;8;105
-Vodovnik;Mirko;OK Slovenj Gradec;M60;0:39:59;7;7;7;7;7;288
-Pavlič;Zdenko;OK Azimut;M60;0:51:44;8;6;6;6;6;1146
-Radovan;Dalibor;OK Polaris;M60;;;;;0;0;148
+Bončina;Igor;OK Slovenske Konjice;M50;;;;;0;0;98
+Anderluh;Gregor;OK Polaris;M50;;;;;0;0;155
+Borštnik;Aleš;OK Tivoli;M60;0:16:11;1;25;25;25;25;24
+Tarabocchia;Cesare;OK Azimut;M60;0:17:32;2;20;20;20;20;91
+Sedej;Vlado;OK Azimut;M60;0:20:34;3;15;15;15;15;118
+Leban;Marijan;OK Azimut;M60;0:22:07;4;12;12;12;12;186
+Pavlič;Zdenko;OK Azimut;M60;0:23:37;5;10;10;10;10;1146
+Vodovnik;Mirko;OK Slovenj Gradec;M60;;;;;0;0;288
 Sladič;Roman;ŠOK;M60;;;;;0;0;39
-Leban;Marijan;OK Azimut;M60;;;;;0;0;186
+Pirman;Srečo;ŠOK;M60;;;;;0;0;139
+Močnik;Silvij;OK Azimut;M60;;;;;0;0;193
+Kete;Ivo;PD Ajdovščina;M60;;;;;0;0;412
 Nelson;Charles;OK Azimut;M60;;;;;0;0;643
-Rojc;Urša;OK Polaris;Ž10;0:19:39;1;25;25;25;25;1153
-Kremžar;Katarina;OK Komenda;Ž10;0:20:35;2;20;20;20;20;1089
-Prezelj;Timeja;OK Azimut;Ž10;0:21:58;3;15;15;15;15;1059
-Pahor;Manca;OK Komenda;Ž10;0:23:07;4;12;12;12;12;1046
-Markovič;Inga;OK Slovenj Gradec;Ž10;0:53:08;5;10;10;10;10;1125
-Raj;Ida Antonija;OK Slovenj Gradec;Ž10;;;;;0;0;1105
-Mlakar;Špela;OK Azimut;Ž10;wrongKat;;;*;0;0;1138
-Nagy;Marja;OK Polaris;Ž10;;;;;0;0;1154
+Raj;Ida Antonija;OK Slovenj Gradec;Ž10;0:09:34;1;25;25;25;25;1105
+Jarc;Neža;OK Komenda;Ž10;0:13:26;2;20;20;20;20;1180
+Markovič;Inga;OK Slovenj Gradec;Ž10;mp;;;-;0;0;1125
 Sessi;Beatrice;OK Komenda;Ž10;;;;;0;0;1162
-Novak;Tina;OK Azimut;Ž10;;;;;0;0;1170
-Gantar;Brina;OK Azimut;Ž12;0:17:31;1;25;25;25;25;1003
-Bizjak;Julija;OK Azimut;Ž12;0:18:37;2;20;20;20;20;1054
-Mezga;Frida;OK Slovenj Gradec;Ž12;0:20:17;3;15;15;15;15;979
-Marjanovič;Mija;PD Ajdovščina;Ž12;0:28:10;4;12;12;12;12;1144
-Šuc;Teja;OK Komenda;Ž12;0:36:46;5;10;10;10;10;1001
-Rojc;Žana;OK Polaris;Ž12;0:37:40;6;8;8;8;8;1152
-Jerkič;Sofija;PD Ajdovščina;Ž12;0:40:12;7;7;7;7;7;1143
-Kerčmar;Ajda;OK Azimut;Ž12;0:40:40;8;6;6;6;6;1114
-Raj;Lili Ivana;OK Slovenj Gradec;Ž12;;;;;0;0;949
-Eržen;Nika;OK Azimut;Ž12;mp;;;-;0;0;984
-Poženel;Leila Ema;OK Komenda;Ž12;;;;;0;0;1002
-Andrejc;Miša;OK Slovenj Gradec;Ž12;;;;;0;0;1016
-Cankar;Tinkara;ŠOK;Ž12;wrongKat;;;*;0;0;1027
-Mlakar;Alicija;OK Slovenj Gradec;Ž12;;;;;0;0;1065
+Jazbar;Zana;OK Azimut;Ž10;;;;;0;0;1113
+Rojc;Urša;OK Polaris;Ž10;;;;;0;0;1153
+Bončina;Vianez;OK Slovenske Konjice;Ž10;;;;;0;0;1193
+Eržen;Izabela;ŠOK;Ž10;;;;;0;0;1194
+Vodopija;Žana;OK Azimut;Ž10;;;;;0;0;1196
+Bizjak;Julija;OK Azimut;Ž12;0:06:27;1;25;25;25;25;1054
+Prezelj;Timeja;OK Azimut;Ž12;0:06:57;2;20;20;20;20;1059
+Poženel;Leila Ema;OK Komenda;Ž12;0:08:05;3;15;15;15;15;1002
+Kremžar;Klara;OK Komenda;Ž12;0:08:05;3;15;15;15;15;1026
+Mlakar;Špela;OK Azimut;Ž12;0:09:10;5;10;10;10;10;1138
+Cankar;Tinkara;ŠOK;Ž12;0:10:26;6;8;8;8;8;1027
+Pahor;Manca;OK Komenda;Ž12;0:13:38;7;7;7;7;7;1046
 Lenart;Vilina;OK Slovenj Gradec;Ž12;;;;;0;0;1066
-Košak;Lana;OK Slovenj Gradec;Ž12;;;;;0;0;1158
-Sessi;Giorgia;OK Komenda;Ž12;;;;;0;0;1163
-Čadež;Ana;OK Azimut;Ž12;;;;;0;0;1056
-Lahajnar;Tajda;OK Azimut;Ž12;;;;;0;0;1140
-Kovačič;Neža;OK Azimut;Ž12;;;;;0;0;1175
-Jeraj;Mija;OK Komenda;Ž12;;;;;0;0;1040
-Kölner;Brina;OK Komenda;Ž16;0:20:01;1;25;25;25;25;803
-Ugrin;Nikolina;OK Tivoli;Ž16;0:21:23;2;20;20;20;20;988
-Močnik;Jana;OK Azimut;Ž16;0:22:06;3;15;15;15;15;973
-Majdič;Špela;OK Azimut;Ž16;0:24:22;4;12;12;12;12;987
-Raj;Ema Pika;OK Slovenj Gradec;Ž16;0:25:43;5;10;10;10;10;853
-Kerčmar;Brina;OK Azimut;Ž16;0:26:45;6;8;8;8;8;598
-Jarc;Ajda;OK Komenda;Ž16;0:34:12;7;7;7;7;7;1029
-Žižek;Zarja;OK Azimut;Ž16;0:35:45;8;6;6;6;6;994
-Vrtnik;Taja;OK Komenda;Ž16;0:51:02;9;5;5;5;5;1136
-Kerševan;Sara;PD Ajdovščina;Ž16;1:03:44;10;4;4;4;4;1067
-Ferenc;Tinka;OK Tivoli;Ž16;;;;;0;0;727
-Kunc;Mojca;OK Tivoli;Ž16;;;;;0;0;774
-Mahkovec;Klara;PD Ajdovščina;Ž16;;;;;0;0;1024
+Kremžar;Katarina;OK Komenda;Ž12;mp;;;-;0;0;1089
+Šuc;Teja;OK Komenda;Ž12;;;;;0;0;1001
+Jerkič;Sofia;PD Ajdovščina;Ž12;;;;;0;0;1143
+Rojc;Žana;OK Polaris;Ž12;;;;;0;0;1152
+Prevodnik;Brina;OK Komenda;Ž12;;;;;0;0;1195
+Kölner;Brina;OK Komenda;Ž16;0:09:14;1;25;25;25;25;803
+Raj;Lili Ivana;OK Slovenj Gradec;Ž16;0:10:23;2;20;20;20;20;949
+Eržen;Nika;OK Azimut;Ž16;0:11:37;3;15;15;15;15;984
+Jarc;Ajda;OK Komenda;Ž16;0:12:39;4;12;12;12;12;1029
+Raj;Ema Pika;OK Slovenj Gradec;Ž16;0:13:10;5;10;10;10;10;853
+Gantar;Brina;OK Azimut;Ž16;0:13:26;6;8;8;8;8;1003
+Mezga;Frida;OK Slovenj Gradec;Ž16;0:16:48;7;7;7;7;7;979
+Andrejc;Miša;OK Slovenj Gradec;Ž16;;;;;0;0;1016
 Valič;Ivana;OK Slovenj Gradec;Ž16;;;;;0;0;1018
-Vončina;Tia;OK Azimut;Ž16;;;;;0;0;1166
-Grmovšek;Karolina;OK Azimut;Ž16;;;;;0;0;1167
-Ikič;Zoja;OK Azimut;Ž16;;;;;0;0;1168
-Jeraj;Ajda;OK Komenda;Ž16;;;;;0;0;896
-Mohorič;Lana;OK Azimut;Ž18;0:23:34;1;25;25;25;25;1076
-Eržen;Nea;OK Azimut;Ž18;0:23:51;2;20;20;20;20;597
-Leban;Manja;OK Azimut;Ž18;0:25:48;3;15;15;15;15;783
-Gnezda;Neža;OK Azimut;Ž18;0:27:12;4;12;12;12;12;1111
-Razpet;Tajda;OK Azimut;Ž18;0:33:11;5;10;10;10;10;1009
-Pust;Karin;OK Komenda;Ž18;0:33:38;6;8;8;8;8;837
-Obid;Neža;OK Azimut;Ž18;0:40:05;7;7;7;7;7;847
-Ferenc;Zala;OK Tivoli;Ž18;;;;;0;0;506
-Peternel;Izabel;OK Komenda;Ž18;;;;;0;0;1150
-Malus;Vita;OK Komenda;Ž18;;;;;0;0;898
-Ferluga;Nastja;OK Komenda;Ž18;;;;;0;0;1155
-Babič;Katja;OK Komenda;Ž21;0:24:19;1;25;25;25;25;818
-Jeram;Nuša;OK Azimut;Ž21;0:28:09;2;20;20;20;20;421
-Razpet;Deja;OK Azimut;Ž21;0:28:41;3;15;15;15;15;733
-Jezeršek;Polona;OK Komenda;Ž21;0:29:37;4;12;12;12;12;715
-Tušar;Teja;OK Azimut;Ž21;0:29:49;5;10;10;10;10;735
-Pogačar;Ana Pia;OK Komenda;Ž21;0:30:56;6;8;8;8;8;515
-Serženta Seljak;Zala;OK Azimut;Ž21;0:32:29;7;7;7;7;7;936
-Ravnikar;Nika;OK Komenda;Ž21;0:33:10;8;6;6;6;6;441
-Gantar;Lara;OK Azimut;Ž21;0:33:44;9;5;5;5;5;673
-Ravnikar;Monika;OK Komenda;Ž21;0:38:01;10;4;4;4;4;357
-Šalamun;Ana;OK Polaris;Ž21;0:38:06;11;3;3;3;3;332
-Štanfel;Urša;OK Azimut;Ž21;0:39:06;12;2;2;2;2;117
-Lampe;Ajda;OK Komenda;Ž21;0:39:19;13;1;1;1;1;431
-Flerin Drevenšek;Mojca;Kamniški OK;Ž21;;;;;0;0;82
+Košak;Lana;OK Slovenj Gradec;Ž16;;;;;0;0;1158
+Sessi;Giorgia;OK Komenda;Ž16;;;;;0;0;1163
+Mahkovec;Klara;PD Ajdovščina;Ž16;;;;;0;0;1024
+Kerševan;Sara;PD Ajdovščina;Ž16;;;;;0;0;1067
+Kunc;Mojca;OK Tivoli;Ž16;;;;;0;0;774
+Anderluh;Ana Maja;OK Polaris;Ž16;;;;;0;0;813
+Ugrin;Nikolina;OK Tivoli;Ž16;;;;;0;0;988
+Lahajnar;Tajda;OK Azimut;Ž16;;;;;0;0;1140
+Malus;Vita;OK Komenda;Ž18;0:15:44;1;25;25;25;25;898
+Gnezda;Neža;OK Azimut;Ž18;0:17:45;2;20;20;20;20;1111
+Peternel;Izabel;OK Komenda;Ž18;0:20:44;3;15;15;15;15;1150
+Babič;Katja;OK Komenda;Ž21;0:14:52;1;25;25;25;25;818
+Eržen;Nea;OK Azimut;Ž21;0:16:59;2;20;20;20;20;597
+Flerin Drevenšek;Mojca;Kamniški OK;Ž21;0:18:01;3;15;15;15;15;82
+Jeram;Nuša;OK Azimut;Ž21;0:18:29;4;12;12;12;12;421
+Knafelj;Tajda;OK Azimut;Ž21;0:18:29;4;12;12;12;12;843
+Poljanšek;Nika;OK Azimut;Ž21;0:20:37;6;8;8;8;8;257
+Zavrl;Zala;OK Komenda;Ž21;0:21:11;7;7;7;7;7;513
+Pust;Karin;OK Komenda;Ž21;0:21:12;8;6;6;6;6;837
+Ravnikar;Nika;OK Komenda;Ž21;0:21:55;9;5;5;5;5;441
+Dovč;Katja;OK Tivoli;Ž21;0:21:56;10;4;4;4;4;642
+Ravnikar;Monika;OK Komenda;Ž21;0:22:53;11;3;3;3;3;357
+Jevševar;Jedert;OK Brežice;Ž21;0:24:17;12;2;2;2;2;46
+Leban;Manja;OK Azimut;Ž21;0:33:38;13;1;1;1;1;783
+Modrijan;Marjeta;OK Azimut;Ž21;0:44:28;14;1;1;1;1;1184
 Foški;Brina;OK Polaris;Ž21;;;;;0;0;128
-Poljanšek;Nika;OK Azimut;Ž21;;;;;0;0;257
-Ferenc;Julija;OK Tivoli;Ž21;;;;;0;0;409
-Anderluh;Katarina Eva;OK Polaris;Ž21;;;;;0;0;445
-Kern;Tina;OK Komenda;Ž21;;;;;0;0;647
-Tekavc Uršič;Alja;OK Polaris;Ž21;;;;;0;0;856
-Zavrl;Zala;OK Komenda;Ž21;;;;;0;0;513
-Jevševar;Jedert;OK Brežice;Ž21;;;;;0;0;46
+Šalamun;Ana;OK Polaris;Ž21;;;;;0;0;332
+Škarabot;Anja;OK Polaris;Ž21;;;;;0;0;399
+Mohorič;Lana;OK Azimut;Ž21;;;;;0;0;1076
+Šoster;Katka;OK Slovenj Gradec;Ž21;;;;;0;0;1091
+Pogačar;Ana Pia;OK Komenda;Ž21;;;;;0;0;515
+Jezeršek;Polona;OK Komenda;Ž21;;;;;0;0;715
+Gantar;Lara;OK Azimut;Ž21;;;;;0;0;673
+Razpet;Deja;OK Azimut;Ž21;;;;;0;0;733
+Tušar;Teja;OK Azimut;Ž21;;;;;0;0;735
+Obid;Neža;OK Azimut;Ž21;;;;;0;0;847
+Serženta Seljak;Zala;OK Azimut;Ž21;;;;;0;0;936
+Štanfel;Urša;OK Azimut;Ž21;;;;;0;0;117
+Golja;Tajda;OK Polaris;Ž21;;;;;0;0;129
+Kalan;Petra;ŠOK;Ž21;;;;;0;0;141
 Draksler;Alja;ŠOK;Ž21;;;;;0;0;405
-Čibej;Barbara;OK Azimut;Ž21;;;;;0;0;939
+Lampe;Ajda;OK Komenda;Ž21;;;;;0;0;431
+Anderluh;Katarina Eva;OK Polaris;Ž21;;;;;0;0;445
 Cankar;Maja;ŠOK;Ž21;;;;;0;0;1052
 Bogataj;Pia;OK Azimut;Ž21;;;;;0;0;1119
-Pribaković Borštnik;Ana;OK Tivoli;Ž35;0:26:59;1;25;25;25;25;23
-Močnik;Tina;OK Komenda;Ž35;0:27:04;2;20;20;20;20;1032
-Balažič;Petja;OK Slovenj Gradec;Ž35;0:27:08;3;15;15;15;15;294
-Hacin Kölner;Irena;OK Komenda;Ž35;0:28:09;4;12;12;12;12;630
-Plavčak;Ana;ŠOK;Ž35;0:32:02;5;10;10;10;10;401
-Kmetec;Barbara;Kamniški OK;Ž35;0:32:30;6;8;8;8;8;667
-Istenič;Maja;OK Azimut;Ž35;0:34:23;7;7;7;7;7;930
-Obid;Maja;OK Azimut;Ž35;0:39:05;8;6;6;6;6;933
-Bončina;Abigael Vanessa;OK Slovenske Konjice;Ž35;0:42:24;9;5;5;5;5;931
-Sedej;Katarina;OK Azimut;Ž35;0:51:13;10;4;4;4;4;992
-Raj;Nastja;OK Slovenj Gradec;Ž35;;;;;0;0;203
-Visinski Andrejc;Maja;OK Slovenj Gradec;Ž35;;;;;0;0;229
-Benigar;Lidija;Kamniški OK;Ž35;;;;;0;0;277
-Flerin Drevenšek;Suzana;Kamniški OK;Ž35;;;;;0;0;316
-Zagorc;Tina;Kamniški OK;Ž35;;;;;0;0;670
-Gorjup Poženel;Darja;OK Komenda;Ž35;;;;;0;0;1025
-Kmetec;Tanja;Kamniški OK;Ž35;;;;;0;0;1103
-Gantar;Damjana;OK Azimut;Ž35;;;;;0;0;919
-Gombač Šuc;Elena;OK Komenda;Ž35;;;;;0;0;945
-Hribar;Anica;OK Brežice;Ž35;;;;;0;0;44
-Malus;Marta;OK Komenda;Ž35;;;;;0;0;982
-Mihelič Porogelčnik;Anja;OK Slovenj Gradec;Ž35;;;;;0;0;1015
-Tušar;Tina;OK Azimut;Ž35;;;;;0;0;1121
-Sepin;Chiara;OK Komenda;Ž35;;;;;0;0;1156
-Koprivc;Matjaž;OK Azimut;Ž35;;;;;0;0;239
+Močnik;Tina;OK Komenda;Ž35;0:15:07;1;25;25;25;25;1032
+Sepin;Chiara;OK Komenda;Ž35;0:15:37;2;20;20;20;20;1156
+Balažič;Petja;OK Slovenj Gradec;Ž35;0:16:32;3;15;15;15;15;294
+Flerin Drevenšek;Suzana;Kamniški OK;Ž35;0:16:44;4;12;12;12;12;316
+Raj;Nastja;OK Slovenj Gradec;Ž35;0:17:48;5;10;10;10;10;203
+Hribar;Anica;OK Brežice;Ž35;0:18:06;6;8;8;8;8;44
+Gantar;Damjana;OK Azimut;Ž35;0:19:18;7;7;7;7;7;919
+Pribaković Borštnik;Ana;OK Tivoli;Ž35;0:19:57;8;6;6;6;6;23
+Leskovec;Maja;OK Azimut;Ž35;0:21:32;9;5;5;5;5;1183
+Istenič;Maja;OK Azimut;Ž35;0:27:51;10;4;4;4;4;930
+Sedej;Katarina;OK Azimut;Ž35;0:28:25;11;3;3;3;3;992
+Malus;Marta;OK Komenda;Ž35;0:46:36;12;2;2;2;2;982
 Foški;Mojca;OK Polaris;Ž35;;;;;0;0;59
-Bogataj;Špela;OK Komenda;Ž35;;;;;0;0;1022
-Žižek;Saša;OK Azimut;Ž45;0:25:53;1;25;25;25;25;110
-Prosen;Maja;OK Komenda;Ž45;0:27:43;2;20;20;20;20;232
-Vuga Seljak;Alenka;OK Komenda;Ž45;0:27:50;3;15;15;15;15;612
-Stojan;Petra;OK Komenda;Ž45;0:29:28;4;12;12;12;12;892
-Pretnar;Irma;Kamniški OK;Ž45;0:35:04;5;10;10;10;10;99
-Škarabot;Alenka;OK Polaris;Ž45;0:44:53;6;8;8;8;8;462
-Jerše;Damjana;OK Polaris;Ž45;0:47:06;7;7;7;7;7;868
-Vodlan;Darja;OK Polaris;Ž45;0:52:17;8;6;6;6;6;1051
-Ugrin;Maja;OK Tivoli;Ž45;0:57:20;9;5;5;5;5;1039
-Poljanšek;Marjanca;OK Azimut;Ž45;mp;;;-;0;0;188
-Balažič;Irena;OK Slovenj Gradec;Ž45;;;;;0;0;298
-Anderluh;Marija;OK Polaris;Ž45;;;;;0;0;400
+Visinski Andrejc;Maja;OK Slovenj Gradec;Ž35;;;;;0;0;229
+Plavčak;Ana;ŠOK;Ž35;;;;;0;0;401
+Lovrec;Valerija;Kamniški OK;Ž35;;;;;0;0;678
+Obid;Maja;OK Azimut;Ž35;;;;;0;0;933
+Mihelič Porogelčnik;Anja;OK Slovenj Gradec;Ž35;;;;;0;0;1015
+Gombač Šuc;Elena;OK Komenda;Ž35;;;;;0;0;945
+Tušar;Tina;OK Azimut;Ž35;;;;;0;0;1121
+Guštin;Katja;OK Polaris;Ž35;;;;;0;0;407
+Bončina;Abigael Vanessa;OK Slovenske Konjice;Ž35;;;;;0;0;931
+Kmetec;Barbara;Kamniški OK;Ž35;;;;;0;0;667
+Kmetec;Tanja;Kamniški OK;Ž35;;;;;0;0;1103
+Močnik;Petra;OK Komenda;Ž35;;;;;0;0;1178
+Hacin Kölner;Irena;OK Komenda;Ž45;0:17:36;1;25;25;25;25;630
+Prosen;Maja;OK Komenda;Ž45;0:21:47;2;20;20;20;20;232
+Balažič;Irena;OK Slovenj Gradec;Ž45;0:25:35;3;15;15;15;15;298
+Gorjup Poženel;Darja;OK Komenda;Ž45;0:26:10;4;12;12;12;12;1025
+Vodlan;Darja;OK Polaris;Ž45;0:36:01;5;10;10;10;10;1051
+Škarabot;Alenka;OK Polaris;Ž45;0:42:08;6;8;8;8;8;462
+Mezga;Tanja;OK Slovenj Gradec;Ž45;0:43:44;7;7;7;7;7;639
+Prezelj;Klavdija;OK Azimut;Ž45;0:45:04;8;6;6;6;6;1070
+Pretnar;Irma;Kamniški OK;Ž45;;;;;0;0;99
+Benigar;Lidija;Kamniški OK;Ž45;;;;;0;0;277
+Debeljak;Maruša;OK Polaris;Ž45;;;;;0;0;322
 Kordiš Miheljak;Urška;OK Slovenj Gradec;Ž45;;;;;0;0;465
-Mezga;Tanja;OK Slovenj Gradec;Ž45;mp;;;-;0;0;639
-Kunc Rešek;Natalija;OK Tivoli;Ž45;;;;;0;0;900
+Vuga Seljak;Alenka;OK Komenda;Ž45;;;;;0;0;612
+Jerše;Damjana;OK Polaris;Ž45;;;;;0;0;868
 Pogorevčnik;Olga;OK Slovenj Gradec;Ž45;;;;;0;0;958
 Fras;Tina;OK Slovenj Gradec;Ž45;;;;;0;0;1000
-Prezelj;Klavdija;OK Azimut;Ž45;wrongKat;;;*;0;0;1070
-Bogataj;Nataša;OK Azimut;Ž45;;;;;0;0;817
-Blejec;Maja;OK Polaris;Ž45;;;;;0;0;1171
-van Buuren;Nadia;OK Komenda;Ž45;;;;;0;0;1164
+Žižek;Saša;OK Azimut;Ž45;;;;;0;0;110
+Zupan;Romana;OK Komenda;Ž45;;;;;0;0;713
+Stojan;Petra;OK Komenda;Ž45;;;;;0;0;892
+Anderluh;Marija;OK Polaris;Ž45;;;;;0;0;400
